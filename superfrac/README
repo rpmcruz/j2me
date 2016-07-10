@@ -1,0 +1,16 @@
+SuperFrac - README
+=-=-=-=-=-=-=-=-=-=
+Author: Ricardo Cruz <rick2@aeiou.pt>
+Version 0.2
+http://rpmcruz.planetaclix.pt/
+Last update: 02-12-2005
+
+DESCRIPTION
+-----------
+  Algebric expressions calculator.
+  Type "help" and "exit" in the calculator's prompt to get help and exit,
+  respectively.
+
+  C version: "make" to compile. ./superfrac to execute.
+
+  Java version: "javac superfrac.java" to compiler. "java SuperFrac" to execute.
